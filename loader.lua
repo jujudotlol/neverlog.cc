@@ -1,4 +1,3 @@
-
 Settings = {
     GunIdentification = { -- // If games have different guns, you can specify their type (automatic, pistol, etc)
         ["[LMG]"] = "Automatic",
