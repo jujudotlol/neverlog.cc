@@ -310,7 +310,8 @@ Settings = {
             Method = "Hold", -- // "Hold", "Always" or "Toggle"
         },
         FirePosition = "Redirect", -- // "Mouse" or "Redirect", (when your mouse is inside the box it will fire at what this setting is set to)
-        FireRadius = 55, -- // In pixels
+        FireHorizontalRadius = 55, -- // In pixels
+        FireVerticalRadius = 20,
         FireDelay = 0, -- // In milliseconds
         FireCooldown = 20,
         RadiusSquare = { -- // Shows the square that you must hover over for triggerbot to activate
